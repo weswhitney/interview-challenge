@@ -23,6 +23,3 @@ Instructions For Install
 - `npm install`
 - `npm start`
 
-
-Submission
-----------
