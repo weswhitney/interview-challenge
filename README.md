@@ -19,7 +19,13 @@ Bonus Points for:
 
 Instructions For Install
 ------------------------
+This repo houses both the UI server and the API server. So in order to run both I'm using [concurrently](https://www.npmjs.com/package/concurrently), therefore you need to `cd` into the client folder and run `npm install` as well as from the root of the project.
 - Fork and clone the repo
+- `cd client`
+- `npm install`
+- `cd ..`
 - `npm install`
 - `npm start`
+
+The app will be running on `http://localhost:3000/`
 
